@@ -9,4 +9,4 @@ clean:
 	rm -f $(fileCompil)
 
 git:
-	iceweasel qbHQ256s
+	iceweasel https://github.com/Draenne/SpaceshipSurvivor_qbHQ256s.git
